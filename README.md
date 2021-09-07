@@ -5,21 +5,44 @@ Moggiと''love''で接近中!
 
 - - - - -
 
-### Products
+I'm a Japanese frontend engineer :D
 
-↓　「せつラボ」シリーズを執筆中✨（数学および圏論の初歩入門書）  
-https://aiya000.booth.pm/items/1316747
+- :sparkles: **Vim** :sparkles:
+    - Have made a few of Vim plugins
+- :sparkles: **Haskell** :sparkles:
+    - Like: lens, megaparsec
+- :sparkles: **TypeScript** :sparkles:
+    - Like: Nuxt.js, Vue.js
 
-↓　「矢澤にこ先輩といっしょに代数！」を執筆！（代数的構造についての初歩入門書）  
-https://aiya000.booth.pm/items/1575006
+- - - - -
 
+## Products
+### Books
+
+【「せつラボ」シリーズを執筆中✨ -- 数学および圏論の初歩入門書】  
+:diamond_shape_with_a_dot_inside: https://aiya000.booth.pm/items/1316747 :diamond_shape_with_a_dot_inside:  
+:diamond_shape_with_a_dot_inside: https://aiya000.booth.pm/items/1298622 :diamond_shape_with_a_dot_inside:
+
+[![](setulab-book.png)](https://aiya000.booth.pm/items/1316747)
+
+- - -
+
+【「矢澤にこ先輩といっしょに代数！」を執筆！ -- 代数的構造についての初歩入門書】  
+:diamond_shape_with_a_dot_inside: https://aiya000.booth.pm/items/1575006 :diamond_shape_with_a_dot_inside:  
+:diamond_shape_with_a_dot_inside: https://aiya000.booth.pm/items/1575006 :diamond_shape_with_a_dot_inside:
+
+[![](nico-book.png)](https://aiya000.booth.pm/items/1575006)
+
+- - -
+
+## Working
 ### Detail
 
-↓　 履歴書（Working curriculum vitae）  
-https://github.com/aiya000/Curriculum-Vitae/blob/master/README.md
+履歴書（Working curriculum vitae）  
+:diamond_shape_with_a_dot_inside: https://github.com/aiya000/Curriculum-Vitae/blob/master/README.md :diamond_shape_with_a_dot_inside: 
 
-↓　詳しいプロフィール  
-https://twpf.jp/public_ai000ya
+詳しいプロフィール  
+:diamond_shape_with_a_dot_inside: https://twpf.jp/public_ai000ya :diamond_shape_with_a_dot_inside:
 
 ### About
 
@@ -34,13 +57,14 @@ https://twpf.jp/public_ai000ya
 - すき
     - :sparkles: **Vim** :sparkles:
     - :sparkles: **Haskell** :sparkles:
+        - **lens**, servant, mtl, megaparsec
     - :sparkles: **TypeScript** :sparkles:
-    - Idris
-    - Scala
-    - Kotlin
+        - Nuxt.js, Vue.js
+    - Idris, Scala, Kotlin
+    - VRChat
     - YazawaNico
 
 - その他
-    - Skeb: https://skeb.jp/@aiya000
+    - Skeb（アドバイス: 文章＆プログラミング）: https://skeb.jp/@aiya000
     - Qiita（真面目なブログ）: https://qiita.com/aiya000
-    - 雑記ブログ: http://aiya000.github.io
+    - ブログ（雑記なブログ）: http://aiya000.github.io
