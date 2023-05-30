@@ -66,6 +66,6 @@ Webフロントエンド、静的型付けエンジニアです。
     - YazawaNico
 
 - その他
-    - Skeb（アドバイス: 文章＆プログラミング）: https://skeb.jp/@aiya000
-    - Qiita（真面目なブログ）: https://qiita.com/aiya000
-    - ブログ（雑記なブログ）: http://aiya000.github.io
+    - Zenn: https://zenn.dev/aiya000
+    - Qiita: https://qiita.com/aiya000
+    - ブログ（雑記・個人的な報告など）: http://aiya000.github.io
