@@ -5,14 +5,15 @@ Moggiと''love''で接近中!
 
 - - - - -
 
-I'm a Japanese frontend engineer :D
+Webフロントエンド、静的型付けエンジニアです。
+静的型付き言語・型システムに強い興味があります！
 
 - :sparkles: **Vim** :sparkles:
-    - Have made a few of Vim plugins
+    - Vimプラグインをいくつか作っています
 - :sparkles: **Haskell** :sparkles:
-    - Like: lens, megaparsec
+    - すき: lens, megaparsec
 - :sparkles: **TypeScript** :sparkles:
-    - Like: Nuxt.js, Vue.js
+    - すき: Nuxt.js, Vue.js
 
 - - - - -
 
