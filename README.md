@@ -15,6 +15,8 @@ Webフロントエンド、静的型付けエンジニアです。
 - :sparkles: **TypeScript** :sparkles:
     - すき: Nuxt.js, Vue.js
 
+[自己紹介2023](https://aiya000.github.io/Maid/who-is-aiya000-2023/#/)
+
 - - - - -
 
 ## Products
@@ -41,9 +43,6 @@ Webフロントエンド、静的型付けエンジニアです。
 
 履歴書（Working curriculum vitae）  
 :diamond_shape_with_a_dot_inside: https://github.com/aiya000/Curriculum-Vitae/blob/master/README.md :diamond_shape_with_a_dot_inside: 
-
-詳しいプロフィール  
-:diamond_shape_with_a_dot_inside: https://twpf.jp/public_ai000ya :diamond_shape_with_a_dot_inside:
 
 ### About
 
