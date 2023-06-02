@@ -15,7 +15,7 @@ Webフロントエンド、静的型付けエンジニアです。
 - :sparkles: **TypeScript** :sparkles:
     - すき: Nuxt.js, Vue.js
 
-[自己紹介2023](https://aiya000.github.io/Maid/who-is-aiya000-2023/#/)
+- 💠 [自己紹介2023](https://aiya000.github.io/Maid/who-is-aiya000-2023/#/) 💠
 
 - - - - -
 
