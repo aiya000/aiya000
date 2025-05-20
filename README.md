@@ -23,9 +23,12 @@ Webフロントエンド、静的型付けエンジニアです。
 
 - [public\_ai000ya - X bio](https://x.com/public_ai000ya/bio)
 
-Twitterから流入してくれた方々向けなので、かなりカジュアルですが、ご了承ください。
+スキルおよび経歴が、詳細に確認できます。
+Twitterより流入してくれた方々向けなので、かなりカジュアルですが、ご了承ください。
 
-![image](https://github.com/user-attachments/assets/4c33a86a-1c55-45a0-88fd-33946c4a811d)
+<img src="https://github.com/user-attachments/assets/4c33a86a-1c55-45a0-88fd-33946c4a811d" alt="職務経歴書プレビュー" height="600px" />
+
+（2025-05-20 現在）
 
 - - -
 
@@ -35,7 +38,9 @@ Twitterから流入してくれた方々向けなので、かなりカジュア�
 
 技術力スコア・市場価値スコア・スキルや実際の活動（主にGitHub・Qiita・Zenn）・参加したイベント（connpass経由）が確認できます。
 
-![image](https://github.com/user-attachments/assets/0983d9fc-af72-4df0-b3f1-53cbc8f1a318)
+<img src="https://github.com/user-attachments/assets/0983d9fc-af72-4df0-b3f1-53cbc8f1a318" alt="職務経歴書プレビュー" height="600px" />
+
+（2025-05-20 現在）
 
 - - -
 
